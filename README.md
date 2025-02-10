@@ -21,7 +21,7 @@ A visually immersive landing page dedicated to Lagunitas Brewing Co.'s IPA, comb
 </ul></br>
 
 ## Views 
-[![Demo Video]()]([path/to/video/file.mp4](https://github.com/ShivamSeamar/Lagunitas-IPA-Landing-Page/blob/main/1.mp4))
+[![Demo Video](https://github.com/ShivamSeamar/Lagunitas-IPA-Landing-Page/blob/main/image.png)]([path/to/video/file.mp4](https://github.com/ShivamSeamar/Lagunitas-IPA-Landing-Page/blob/main/1.mp4))
 
 ## How to Use
 <ul>
